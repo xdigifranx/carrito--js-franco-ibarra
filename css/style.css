@@ -1,0 +1,170 @@
+.grid-contenedor {
+    display: grid;
+    grid-template-areas: "item1" "item2" "item3"; }
+.item1 {
+    grid-area: item1; }
+.item2 {
+    grid-area: item2; }
+.item3 {
+    grid-area: item3; }
+.flex-contenedor {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 30px; }
+footer {
+    text-align: center; }
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px; }
+.nav {
+    justify-content: right; }
+.img2, .img{
+    width: 20vw;
+    height: 50vh;
+    padding: 20px;
+    margin: auto;
+    margin-top: 30px; }
+.img {
+    display: flex;
+    align-content: center; }
+.img3{
+    width: 20vw;
+    height: 50vh;
+}
+.logo {
+    width: 50%;
+    height: 30%; }.mapa {
+    margin-top: 20px;
+    margin-bottom: 20px; }
+.contacto2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px 20px;
+    margin-top: 50px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    width: 50%; }
+body {
+    font-family: "calibri";
+    font-weight: bold;
+    color: black;
+    background-image: url("../img/fondo.jpg"); }
+h5 {
+    font-weight: bold;
+    color: black; }
+.texto {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: bold; }
+.parrafo {
+    margin-left: 10px;
+    font-family: secondfont;
+    font-weight: bold;
+    color: #fff;
+    text-align: center; }
+.titulo {
+    margin-left: 10px;
+    margin-top: 20px;
+    text-decoration: underline;
+    padding: 10px;
+    font-family: "calibri"; }
+.texto-izquierdo {
+    text-align: left;
+    font-family: "arial";
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    padding: 20px; }
+.minititulo {
+    text-align: left;
+    font-family: "arial";
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-decoration: underline; }
+.galeri {
+    text-align: center;
+    font-family: "arial";
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: underline;
+    margin: 15px; }
+.cursos {
+    color: white;
+    text-align: center; }
+.colores {
+    background-image: linear-gradient(to right, #FFE690, orange); }
+.tablon {
+    width: 40%;
+    background-color: orange;
+    text-align: left;
+    border-style: solid;
+    border-color: #FFE690;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;}
+.caja {
+    background-color: #FFE690;
+    border-style: solid;
+    border-color: orange;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    margin: 0px auto; }
+.bg-orange {
+    background-color: orange;
+    border: 3px #FFE690 solid; }
+.btn-orange {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #FFE690; }
+.menudecompras{
+    display: block;
+    position: absolute;
+    z-index: 1000;
+    min-width: 10rem;
+    padding: 0.5rem 0;
+    margin: 0;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    background-color: #FFE690;
+    background-clip: padding-box;
+    border: 1px solidrgba(0,0,0,.15);
+    border-radius: 0.25rem;
+}
+.field {
+    margin-bottom: 10px;
+  }
+  
+  .field label {
+    display: block;
+    font-size: 12px;
+    color: #777;
+  }
+  
+  .field input {
+    display: block;
+    min-width: 250px;
+    line-height: 1.5;
+    font-size: 14px;
+  }
+  
+  input[type="submit"] {
+    display: block;
+    padding: 6px 30px;
+    font-size: 14px;
+    background-color: #4460AA;
+    color: #fff;
+    border: none
+  }

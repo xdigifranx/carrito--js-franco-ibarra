@@ -1,0 +1,46 @@
+[{
+    "id": 1,
+    "precio":1550,
+    "titulo":"remera de batman"
+},
+{
+    "id": 2,
+    "precio":1850,
+    "titulo":"remera de spiderman "
+},
+{
+    "id": 3,
+    "precio":1650,
+    "titulo":"remera de venom"
+},
+{
+    "id": 4,
+    "precio":1899,
+    "titulo":"original"
+},
+{
+    "id": 5,
+    "precio":1599,
+    "titulo":"original 2"
+},
+{
+    "id": 6,
+    "precio":1699,
+    "titulo":"original 3"
+},
+{
+    "id": 7,
+    "precio":1800,
+    "titulo":"remera de doroherodo"
+},
+{
+    "id": 8,
+    "precio":1500,
+    "titulo":"remera de berserk "
+},
+{
+    "id": 9,
+    "precio":1600,
+    "titulo":"remera de jujutsu kaisen"
+}
+]
